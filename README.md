@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ExultantMonkey/ExultantMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working more with mechanical and electrical engineering than software
 
-Here are some ideas to get you started:
+### Stuff That I'm Using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through some side projects both at work at home, these are some of the stuff that I'm currently using
+
+- [Quasar](https://quasar.dev/)
+- [Laravel](https://laravel.com/)
+- [DocXTemplater](https://docxtemplater.com/)
+- [Axios](https://axios-http.com/)
+- [Vue](https://vuejs.org/)
+- [Pinia](https://pinia.vuejs.org/)
+- [jsPDF](https://parall.ax/products/jspdf)
